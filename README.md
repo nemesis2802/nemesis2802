@@ -1,5 +1,5 @@
 - 👀 movies , shows , videogames and stuff
-- 📫 IG- _a.shmit
+
 
 <!---
 nemesis2802/nemesis2802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
