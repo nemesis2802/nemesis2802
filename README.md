@@ -1,4 +1,3 @@
-- 👀 movies , shows and stock exchanges
 
 
 <!---
