@@ -1,4 +1,4 @@
-- 👀 movies , shows , videogames and stuff
+- 👀 movies , shows and stock exchanges
 
 
 <!---
